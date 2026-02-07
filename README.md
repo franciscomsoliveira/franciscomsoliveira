@@ -99,8 +99,8 @@ Experiência prática em automação, sistemas de negócio e soluções orientad
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leicam84_DEV&show_icons=true&theme=github_dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leicam84_DEV&layout=compact&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=franciscomsoliveira&show_icons=true&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscomsoliveira&layout=compact&theme=github_dark&hide_border=true" height="150" />
 </p>
 
 ---
@@ -117,8 +117,8 @@ Experiência prática em automação, sistemas de negócio e soluções orientad
 
 ## 📬 Contact
 
-- GitHub: https://github.com/Leicam84_DEV 
-- LinkedIn: https://linkedin.com/in/Leicam84_DEV  
+- GitHub: https://github.com/franciscomsoliveira 
+- LinkedIn: https://linkedin.com/in/franciscomsoliveira  
 
 ---
 
