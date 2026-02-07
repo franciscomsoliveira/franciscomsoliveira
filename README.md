@@ -117,8 +117,8 @@ Experiência prática em automação, sistemas de negócio e soluções orientad
 
 ## 📬 Contact
 
-- GitHub: https://github.com/SEU_USUARIO  
-- LinkedIn: https://linkedin.com/in/SEU_LINKEDIN  
+- GitHub: https://github.com/Leicam84_DEV 
+- LinkedIn: https://linkedin.com/in/Leicam84_DEV  
 
 ---
 
