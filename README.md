@@ -41,17 +41,42 @@
     ⚙️ <strong>Backend:</strong> Node.js • Python • MySQL • APIs REST • Auth  
   </div>
 
-  <!-- STATS -->
-  <div style="margin-top: 24px;">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true"
-      height="150"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true"
-      height="150"
-    />
-  </div>
+  <!-- TECH STACK -->
+<div style="
+  margin-top: 28px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 14px;
+">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+       height="40" title="React" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+       height="40" title="TypeScript" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+       height="40" title="Node.js" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+       height="40" title="Python" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+       height="40" title="MySQL" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+       height="40" title="Docker" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+       height="40" title="Git" />
+
+</div>
+
+<p style="margin-top: 14px; font-size: 13px; opacity: 0.75;">
+  ⚙️ Tecnologias utilizadas em produção
+</p>
+
 
   <!-- FOOTER -->
   <p style="margin-top: 24px; font-size: 13px; opacity: 0.7;">
