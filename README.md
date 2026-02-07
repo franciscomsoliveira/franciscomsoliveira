@@ -41,41 +41,36 @@
     ⚙️ <strong>Backend:</strong> Node.js • Python • MySQL • APIs REST • Auth  
   </div>
 
-  <!-- TECH STACK -->
-<div style="
-  margin-top: 28px;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 14px;
-">
+<!-- TECH STACK -->
+<div align="center" style="margin-top: 28px;">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-       height="40" title="React" />
+       height="40" title="React" style="margin: 0 8px;" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-       height="40" title="TypeScript" />
+       height="40" title="TypeScript" style="margin: 0 8px;" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-       height="40" title="Node.js" />
+       height="40" title="Node.js" style="margin: 0 8px;" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-       height="40" title="Python" />
+       height="40" title="Python" style="margin: 0 8px;" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-       height="40" title="MySQL" />
+       height="40" title="MySQL" style="margin: 0 8px;" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-       height="40" title="Docker" />
+       height="40" title="Docker" style="margin: 0 8px;" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-       height="40" title="Git" />
+       height="40" title="Git" style="margin: 0 8px;" />
 
 </div>
 
-<p style="margin-top: 14px; font-size: 13px; opacity: 0.75;">
+<p align="center" style="margin-top: 12px; font-size: 13px; opacity: 0.75;">
   ⚙️ Tecnologias utilizadas em produção
 </p>
+
 
 
   <!-- FOOTER -->
