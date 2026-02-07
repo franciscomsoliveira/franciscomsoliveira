@@ -99,8 +99,9 @@ Experiência prática em automação, sistemas de negócio e soluções orientad
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franciscomsoliveira&show_icons=true&theme=github_dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscomsoliveira&layout=compact&theme=github_dark&hide_border=true" height="150" />
+  <a href="https://github.com/franciscomsoliveira/404">
+    <img src="https://img.shields.io/badge/GitHub-Activity_Not_Public-21262d?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
