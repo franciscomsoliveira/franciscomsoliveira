@@ -1,92 +1,127 @@
+<!-- HERO CARD -->
 <div align="center" style="
-  max-width: 720px;
-  margin: 40px auto;
-  padding: 24px;
+  max-width: 760px;
+  margin: 48px auto;
+  padding: 28px;
   border-radius: 16px;
   background: linear-gradient(145deg, #0d1117, #161b22);
   border: 1px solid #30363d;
   color: #c9d1d9;
-  font-family: Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
 ">
 
-  <!-- HEADER -->
-  <h2 style="margin-bottom: 6px;">🧩 Fullstack Developer</h2>
-  <p style="margin-top: 0; font-size: 15px; opacity: 0.85;">
-    Frontend & Backend • Soluções completas • Código limpo
-  </p>
+<h1 style="margin-bottom: 4px;">Leicam Arievilo</h1>
 
-  <!-- NIVEL -->
-  <p style="
-    display: inline-block;
-    padding: 6px 14px;
-    border-radius: 20px;
-    background: #21262d;
-    font-size: 13px;
-    margin: 12px 0;
-  ">
-    🚀 Nível: <strong>SENIOR</strong>
-  </p>
+<p style="margin-top: 0; font-size: 16px; opacity: 0.9;">
+Fullstack Software Engineer
+</p>
 
-  <!-- DESCRICAO -->
-  <p style="font-size: 14px; line-height: 1.6; max-width: 600px; margin: 16px auto;">
-    Atuo no desenvolvimento de aplicações escaláveis, integrando interfaces modernas
-    com backends sólidos, seguros e orientados a dados.
-    Experiência em arquitetura, automação e visão de produto.
-  </p>
+<p style="
+  display: inline-block;
+  padding: 6px 14px;
+  border-radius: 999px;
+  background: #21262d;
+  font-size: 13px;
+  margin: 14px 0;
+">
+🚀 Senior Level
+</p>
 
-  <!-- STACK TEXTO -->
-  <div style="margin: 20px 0; font-size: 14px;">
-    ⚛️ <strong>Frontend:</strong> React • Vite • TypeScript • Styled-components  
-    <br/>
-    ⚙️ <strong>Backend:</strong> Node.js • Python • MySQL • APIs REST • Auth  
-  </div>
-
-  <!-- TECH STACK ICONES -->
-  <div align="center" style="margin-top: 28px;">
-
-    <!-- LINHA 1 -->
-    <div style="margin-bottom: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-           height="38" title="React" style="margin: 6px 8px;" />
-
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-           height="38" title="TypeScript" style="margin: 6px 8px;" />
-
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-           height="38" title="Node.js" style="margin: 6px 8px;" />
-
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-           height="38" title="Python" style="margin: 6px 8px;" />
-    </div>
-
-    <!-- LINHA 2 -->
-    <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-           height="38" title="MySQL" style="margin: 6px 8px;" />
-
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-           height="38" title="Docker" style="margin: 6px 8px;" />
-
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-           height="38" title="Git" style="margin: 6px 8px;" />
-    </div>
-
-  </div>
-
-  <p align="center" style="margin-top: 12px; font-size: 13px; opacity: 0.75;">
-    ⚙️ Tecnologias utilizadas em produção
-  </p>
-
-  <!-- FOOTER -->
-  <p style="margin-top: 24px; font-size: 13px; opacity: 0.7;">
-    📍 Foco em performance • escalabilidade • boas práticas
-  </p>
+<p style="
+  max-width: 640px;
+  margin: 20px auto;
+  font-size: 14px;
+  line-height: 1.7;
+  opacity: 0.9;
+">
+Software Engineer com foco em desenvolvimento de aplicações escaláveis,
+arquitetura limpa e integração entre frontend e backend.
+Experiência prática em automação, sistemas de negócio e soluções orientadas a dados.
+</p>
 
 </div>
 
 ---
 
-### 📬 Contato
+## 🧠 Core Competencies
+
+- Arquitetura de sistemas e APIs
+- Integração frontend ↔ backend
+- Modelagem e persistência de dados
+- Performance, escalabilidade e segurança
+- Automação de processos e sistemas internos
+
+---
+
+## 🛠️ Technology Stack
+
+### Frontend
+- React
+- TypeScript
+- Vite
+- Styled-components
+- UI/UX principles
+
+### Backend
+- Node.js
+- Python
+- RESTful APIs
+- Authentication & Authorization
+- MySQL
+
+### DevOps & Tooling
+- Docker
+- Git
+- CI/CD (conceitos)
+- Versionamento e boas práticas
+
+---
+
+## ⚙️ Stack em Produção
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" title="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" title="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" title="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" title="Python" />
+
+<br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" title="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" title="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" title="Git" />
+
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leicam84_DEV&show_icons=true&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leicam84_DEV&layout=compact&theme=github_dark&hide_border=true" height="150" />
+</p>
+
+---
+
+## 🧩 What I Build
+
+- Sistemas de controle e automação
+- ERPs e ferramentas internas
+- Dashboards e aplicações web
+- Integrações entre serviços e bancos de dados
+- Soluções fullstack end-to-end
+
+---
+
+## 📬 Contact
+
 - GitHub: https://github.com/SEU_USUARIO  
 - LinkedIn: https://linkedin.com/in/SEU_LINKEDIN  
 
+---
+
+<p align="center" style="opacity: 0.6; font-size: 12px;">
+Built with focus on clarity, scalability and real-world impact.
+</p>
