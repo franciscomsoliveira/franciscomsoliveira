@@ -34,44 +34,48 @@
     Experiência em arquitetura, automação e visão de produto.
   </p>
 
-  <!-- STACK -->
+  <!-- STACK TEXTO -->
   <div style="margin: 20px 0; font-size: 14px;">
     ⚛️ <strong>Frontend:</strong> React • Vite • TypeScript • Styled-components  
     <br/>
     ⚙️ <strong>Backend:</strong> Node.js • Python • MySQL • APIs REST • Auth  
   </div>
 
-<!-- TECH STACK -->
-<div align="center" style="margin-top: 28px;">
+  <!-- TECH STACK ICONES -->
+  <div align="center" style="margin-top: 28px;">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-       height="40" title="React" style="margin: 0 8px;" />
+    <!-- LINHA 1 -->
+    <div style="margin-bottom: 12px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+           height="38" title="React" style="margin: 6px 8px;" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-       height="40" title="TypeScript" style="margin: 0 8px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+           height="38" title="TypeScript" style="margin: 6px 8px;" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-       height="40" title="Node.js" style="margin: 0 8px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+           height="38" title="Node.js" style="margin: 6px 8px;" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-       height="40" title="Python" style="margin: 0 8px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+           height="38" title="Python" style="margin: 6px 8px;" />
+    </div>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-       height="40" title="MySQL" style="margin: 0 8px;" />
+    <!-- LINHA 2 -->
+    <div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+           height="38" title="MySQL" style="margin: 6px 8px;" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-       height="40" title="Docker" style="margin: 0 8px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+           height="38" title="Docker" style="margin: 6px 8px;" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-       height="40" title="Git" style="margin: 0 8px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+           height="38" title="Git" style="margin: 6px 8px;" />
+    </div>
 
-</div>
+  </div>
 
-<p align="center" style="margin-top: 12px; font-size: 13px; opacity: 0.75;">
-  ⚙️ Tecnologias utilizadas em produção
-</p>
-
-
+  <p align="center" style="margin-top: 12px; font-size: 13px; opacity: 0.75;">
+    ⚙️ Tecnologias utilizadas em produção
+  </p>
 
   <!-- FOOTER -->
   <p style="margin-top: 24px; font-size: 13px; opacity: 0.7;">
@@ -79,3 +83,10 @@
   </p>
 
 </div>
+
+---
+
+### 📬 Contato
+- GitHub: https://github.com/SEU_USUARIO  
+- LinkedIn: https://linkedin.com/in/SEU_LINKEDIN  
+
